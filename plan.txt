@@ -1,0 +1,8 @@
+2 joueurs (ou plus ?)
+jeux en temps reel (pas tour par tour)
+chat / souris ( défini dans un struc joueur (avec les coos))
+faire un menu ? ou mettre 
+bonus (a representer) :
+    - inversion de la chasse : chat / souris
+    - portail de teleportation comme dans Portal (1 utilisation, que celui qui l'a posé peut l'utiliser)
+    - boost de vitesse : un joueur avance de 2 cases
